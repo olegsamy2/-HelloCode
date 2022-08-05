@@ -1,0 +1,15 @@
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\bin\Debug\net6.0\Ex001_HelloConcole.exe
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\bin\Debug\net6.0\Ex001_HelloConcole.deps.json
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\bin\Debug\net6.0\Ex001_HelloConcole.runtimeconfig.json
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\bin\Debug\net6.0\Ex001_HelloConcole.dll
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\bin\Debug\net6.0\Ex001_HelloConcole.pdb
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\Ex001_HelloConcole.csproj.AssemblyReference.cache
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\Ex001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\Ex001_HelloConcole.AssemblyInfoInputs.cache
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\Ex001_HelloConcole.AssemblyInfo.cs
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\Ex001_HelloConcole.csproj.CoreCompileInputs.cache
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\Ex001_HelloConcole.dll
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\refint\Ex001_HelloConcole.dll
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\Ex001_HelloConcole.pdb
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\Ex001_HelloConcole.genruntimeconfig.cache
+C:\Users\Olegin\Desktop\Geekbrains\С#\Examples\Ex001_HelloConcole\obj\Debug\net6.0\ref\Ex001_HelloConcole.dll
